@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ([Solution](https://www.frontendmentor.io/solutions/faq-accordion--uuq8C19At))
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/faq-accordion--uuq8C19At)
 - Live Site URL: [FAQ Accordion](https://poplarbeargi.github.io/faq-accordion/)
 
 ## My process
